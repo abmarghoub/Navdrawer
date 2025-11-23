@@ -12,7 +12,7 @@
 
 ### Module
 
-**Développement et Design Web**
+**Techniques de Programmation Avancée**
 
 ### Établissement
 
@@ -46,121 +46,14 @@
 
 ---
 
-### 2.2 📁 Structure du projet
+### 2.2 Structure du projet
 
-```
-NavigationDrawerDemo/
-│
-├── java/
-│   └── ma/ens/navgationdraw/
-│       ├── MainActivity.java
-│       ├── BlankFragment.java
-│       ├── BlankFragment2.java
-│       └── FragmentList.java
-│
-├── res/
-│   ├── layout/
-│   │   ├── activity_main.xml
-│   │   ├── app_bar_main.xml
-│   │   ├── content_main.xml
-│   │   ├── fragment_blank.xml
-│   │   ├── fragment_blank2.xml
-│   │   └── nav_header_main.xml
-│   │
-│   ├── menu/
-│   │   ├── activity_main_drawer.xml
-│   │   └── main.xml
-│   │
-│   ├── drawable/
-│   │   ├── ic_home.xml
-│   │   ├── ic_dashboard.xml
-│   │   └── ic_list.xml
-│   │
-│   ├── values/
-│       ├── colors.xml
-│       ├── strings.xml
-│       └── themes.xml
-│
-└── AndroidManifest.xml
-```
+<img width="585" height="868" alt="image" src="https://github.com/user-attachments/assets/74bffe3c-9eac-4c28-b778-45075915820f" />
 
----
 
-## 3. 🟢 Résultat attendu
+## 3. Résultat attendu
 
-L’application finale doit afficher un **menu latéral Navigation Drawer**, permettant d’afficher trois fragments différents :
 
-### ✔️ Écran d’accueil (avec Drawer fermé)
+https://github.com/user-attachments/assets/3719cc41-1424-4b33-a725-3603715b24f1
 
-📸 *Capture d’écran attendue*
-*(exemple)*
 
-```
-[Toolbar avec bouton hamburger]
-[Contenu vide avant sélection d’un fragment]
-```
-
----
-
-### ✔️ Menu Navigation Drawer ouvert
-
-📸 *Capture d’écran attendue*
-*(exemple)*
-
-```
-Fragment 1
-Fragment 2
-Fragment List
-```
-
----
-
-### ✔️ Fragment 1 (fond rose)
-
-📸 *Capture d’écran attendue*
-*(exemple)*
-
-```
--------------------------------
-|   Fragment 1 (fond rose)    |
--------------------------------
-```
-
----
-
-### ✔️ Fragment 2 (fond bleu)
-
-📸 *Capture d’écran attendue*
-
-```
--------------------------------
-|   Fragment 2 (fond bleu)    |
--------------------------------
-```
-
----
-
-### ✔️ Fragment List (ListFragment)
-
-📸 *Capture d’écran attendue*
-
-```
-Item 1
-Item 2
-Item 3
-...
-Item 10
-```
-
----
-
-Si tu veux, je peux aussi te créer :
-
-✅ un **README en Markdown avec images intégrées**
-➡️ (tu m’enverras les captures d’écran et je les place correctement)
-
-ou
-
-✅ un **fichier README.md prêt à télécharger**
-
-Dis-moi ce que tu préfères !
